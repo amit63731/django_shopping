@@ -51,3 +51,5 @@ site/
 # IDEs
 .idea/
 .vscode/
+#  Database
+*.sqlite3
